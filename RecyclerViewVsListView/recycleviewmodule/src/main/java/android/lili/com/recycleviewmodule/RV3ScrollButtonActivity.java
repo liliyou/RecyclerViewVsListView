@@ -184,7 +184,7 @@ public class RV3ScrollButtonActivity extends AppCompatActivity {
                 //                recyclerView.setItemAnimator(new ScaleInRightAnimator(new OvershootInterpolator(1f)));
                 //                recyclerView.getItemAnimator().setAddDuration(1000);
                 //                recyclerView.getItemAnimator().setRemoveDuration(1000);
-                //                recyclerAdapter.notifyItemInserted(arrayList.size()-1);
+                recyclerAdapter.notifyItemInserted(arrayList.size() - 1);
                 txtNote.setText("增加了一個item到列表後面，插入更新了畫面上最後一個item");
 
             }
