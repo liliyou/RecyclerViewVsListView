@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="notice_content">
+        <item>訂單編號1</item>
+        <item>訂單編號2</item>
+        <item>訂單編號3</item>
+        <item>訂單編號4</item>
+        <item>訂單編號5</item>
+        <item>訂單編號n</item>
+    </string-array>
+
+</resources>
